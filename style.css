@@ -25,12 +25,11 @@
     transform: translate(-50%, -50%);
     color: white;
 }
-<style>
+
 .carousal-container {
 max-width: 500px;
 margin: 0 auto;
 }
-</style>
 
 /* spacing on all sectionso */
 /* #about, #services, #portfolio, #contact {
