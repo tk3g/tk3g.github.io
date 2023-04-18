@@ -25,6 +25,12 @@
     transform: translate(-50%, -50%);
     color: white;
 }
+<style>
+.carousal-container {
+max-width: 600px;
+max-height: 700px;
+}
+</style>
 
 /* spacing on all sectionso */
 /* #about, #services, #portfolio, #contact {
